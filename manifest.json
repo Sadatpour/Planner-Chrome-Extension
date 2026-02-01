@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Moji Planner",
+  "version": "1.0.0",
+  "description": "Moji Planner - Daily Planning Dashboard for Chrome",
+  "permissions": ["storage", "activeTab"],
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Moji Planner"
+  },
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "host_permissions": []
+}
