@@ -1,4 +1,3 @@
-# Planner-Chrome-Extension
 # 🌙 Moji Planner - Chrome New Tab Extension
 
 یک داشبورد برنامه‌ریزی جامع برای تب جدید Chrome با پشتیبانی کامل فارسی و تقویم جلالی.
